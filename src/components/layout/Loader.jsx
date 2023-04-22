@@ -12,7 +12,7 @@ const Loader = () => {
     },
     transition: {
       ease: "linear",
-      repeat: "Infinity",
+      repeat:Infinity,
       repeatType: "reverse",
     },
   };
